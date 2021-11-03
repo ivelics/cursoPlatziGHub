@@ -7,4 +7,7 @@ html {
 h1 {
     color: blueviolet;
     border-radius: 12px;
+    text-align: center;
+    border-color: brown;
+    border: 1px solid brown;
 }
