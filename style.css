@@ -4,7 +4,23 @@ html {
     font-size: 62.5%;
 }
 
-h1 {
+header>h1 {
     color: blueviolet;
     border-radius: 12px;
+    text-align: center;
+    border-color: brown;
+    border: 1px solid brown;
+}
+
+header>p {
+    background-color: blue;
+    width: 70%;
+    color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+p span {
+    color: yellowgreen;
+    font-size: 2rem;
 }
